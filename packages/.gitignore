@@ -1,0 +1,6 @@
+# ignores any file named "secret.js"
+secret.js
+# ignores any directory named "log"
+log/
+# ignores any file with a .txt extension
+*.txt
